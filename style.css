@@ -1,0 +1,14 @@
+#grid {
+    width: 400px;
+    height: 300px;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+#result {
+    font-size: 200px;
+}
+#score{
+    font-size: 200px;
+}
